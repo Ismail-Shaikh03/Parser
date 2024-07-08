@@ -1,0 +1,7 @@
+PROGRAM circle
+	!Variable declarations and simple if statement
+	real :: r, a, p, b 	
+	character :: str1, str2
+	if ( r == 5) 
+	  print *, str1, str2
+END PROGRAM circle

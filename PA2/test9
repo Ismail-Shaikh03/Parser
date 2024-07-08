@@ -1,0 +1,5 @@
+PROGRAM circle
+	!invalid identifier
+	REAL :: r, axyzt, 3p2, b 	
+	character :: str1, str2
+END PROGRAM circle

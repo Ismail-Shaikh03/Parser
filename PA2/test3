@@ -1,0 +1,11 @@
+PROGRAM circle
+	!String declaration and length definition
+	REAL :: r, a, p, b 	
+	character (LEN = 20) :: str1 = "Hello World!", str2
+	a = (3.14) * r * r
+	! Block If statement
+	IF ( r == 5) THEN
+	  p = 2 * 3.14 * b 
+	END IF
+	
+END PROGRAM circle

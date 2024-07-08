@@ -1,0 +1,16 @@
+PROGRAM circle
+	!Nested Block If statements
+	REAL :: r, a, p, b 	
+	character (LEN = 15) :: str = "Hello World!", str2
+	a = (3.14) * r * r
+	IF ( r == 5) THEN
+	  IF ( r == 5) THEN
+	  p = 2 * 3.14 * b 
+	  print *, a, p, r
+	else
+		str = str  // str2
+		print *, str, str2
+	END IF 
+	END IF
+	
+END PROGRAM circle

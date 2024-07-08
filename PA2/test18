@@ -1,0 +1,10 @@
+PROGRAM circle
+	!Invalid relational expression
+	REAL :: r, a, p, b 	
+	character :: str1 , str2
+	a = (3.14) * r * r
+	IF ( r < 5 < a) THEN
+	  p = 2 * 3.14 * b 
+	END IF
+	
+END PROGRAM circle

@@ -1,0 +1,5 @@
+PROGRAM circle
+	!syntax error in declaration statement
+	REAL : r, a, p, b 	
+	character  str1, str2
+END PROGRAM circle

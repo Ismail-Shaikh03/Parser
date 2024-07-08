@@ -1,0 +1,7 @@
+PROGRAM circle
+	!Using an uninitialized variable
+	INTEGER :: r, a, b 	
+		
+	!Display the results
+	PRINT *, "The output results are " , a+4, p*2, -b
+END PROGRAM circle

@@ -1,0 +1,5 @@
+PROGRAM circle
+	!Variable redefinition
+	REAL :: r, a, p, b 	
+	CHARacter :: p, str2
+END PROGRAM circle

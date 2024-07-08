@@ -1,0 +1,13 @@
+PROGRAM circle
+	!Block If statement with Else-clause
+	REAL :: r, a, p, b 	
+	CHARACTER :: str1, str2
+	a = (3.14) * r * r
+	IF ( r == 5) THEN
+	  p = 2 * 3.14 * b 
+	  print *, a, p, r
+	else
+		str1 = str1  // str2
+		print *, str1, str2
+	END IF
+END PROGRAM circle

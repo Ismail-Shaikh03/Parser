@@ -1,0 +1,7 @@
+PROGRAM circle
+	!Print syntax error
+	INTEGER :: r, a, b , p	
+		
+	!Display the results
+	PRINT * "The output results are " , a+4, p*2, -b
+END PROGRAM circle

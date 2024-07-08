@@ -1,0 +1,10 @@
+PROGRAM circle
+	!Missing operator between operands
+	REAL :: r, a, p, b 	
+	
+	a = (3.14) * r  r
+	IF ( r == 5) THEN
+	  p = 2 * 3.14 * b 
+	END IF
+	
+END PROGRAM circle

@@ -1,0 +1,5 @@
+PROGRAM circle
+	!Missing End of program
+	REAL :: r, a, p, b 	
+	CHARacter :: str2
+ PROGRAM circle

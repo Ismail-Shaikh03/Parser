@@ -1,0 +1,12 @@
+PROGRAM circle
+	!Block If statement syntax error
+	REAL :: r, a, p, b 	
+	
+	a = (3.14) * r * r
+	IF ( r == 5) 
+	  p = 2 * 3.14 * b 
+	else
+		p = 0.0
+	END IF
+	
+END PROGRAM circle
